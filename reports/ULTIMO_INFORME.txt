@@ -1,1 +1,7 @@
+CRYPTORESEARCH AI — INFORME DE OBSERVACIÓN
+===========================================
+Todavía no hay análisis ejecutado.
+Cuando GitHub Actions complete su primera ejecución, este archivo se actualizará
+con los datos públicos disponibles de Kraken.
 
+Modo: EDUCATIVO / SOLO DATOS PÚBLICOS / SIN ÓRDENES.
