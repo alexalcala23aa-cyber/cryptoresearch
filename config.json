@@ -1,1 +1,29 @@
-
+{
+  "exchange": "kraken",
+  "timeframe": "4h",
+  "candle_limit": 260,
+  "quote": "USD",
+  "symbols": [
+    "BTC/USD",
+    "ETH/USD",
+    "SOL/USD",
+    "XRP/USD",
+    "ADA/USD",
+    "DOGE/USD",
+    "LTC/USD",
+    "LINK/USD",
+    "AVAX/USD",
+    "DOT/USD"
+  ],
+  "parameters": {
+    "ema_fast": 20,
+    "ema_medium": 50,
+    "ema_slow": 200,
+    "rsi_period": 14,
+    "atr_period": 14,
+    "volume_period": 20,
+    "volume_attention_ratio": 1.3,
+    "level_lookback": 40,
+    "breakout_atr_buffer": 0.15
+  }
+}
