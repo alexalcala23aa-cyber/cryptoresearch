@@ -1,6 +1,6 @@
 CRYPTORESEARCH AI — INFORME DE OBSERVACIÓN
 ==========================================================
-Generado: 2026-11-23 09:30:50 UTC
+Generado: 2026-11-23 13:26:56 UTC
 Marco temporal: 4h
 Modo: EDUCATIVO / SOLO DATOS PÚBLICOS / SIN ÓRDENES
 
@@ -18,101 +18,101 @@ DETALLE POR ACTIVO
 ----------------------------------------------------------
 
 [BTC/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 61,371.20000000
+Último cierre de vela cerrada: 61,356.60000000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 60,719.26853609 | EMA50: 62,875.70589102 | EMA200: 71,861.55377833
-RSI(14): 62.92 | ATR(14): 1,525.17142857
-Volumen relativo: 0.33x
+EMA20: 60,779.96677075 | EMA50: 62,816.13237744 | EMA200: 71,775.01958148
+RSI(14): 80.33 | ATR(14): 1,381.52142857
+Volumen relativo: 0.35x
 Soporte de referencia: 55,100.00000000
-Resistencia de referencia: 65,633.50000000
+Resistencia de referencia: 65,471.30000000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [ETH/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 1,719.98000000
+Último cierre de vela cerrada: 1,723.72000000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 1,706.10055537 | EMA50: 1,769.36005743 | EMA200: 2,070.78344900
-RSI(14): 67.94 | ATR(14): 43.02428571
-Volumen relativo: 0.28x
+EMA20: 1,707.77859772 | EMA50: 1,767.57033721 | EMA200: 2,067.88626027
+RSI(14): 83.19 | ATR(14): 39.22500000
+Volumen relativo: 0.40x
 Soporte de referencia: 1,536.00000000
-Resistencia de referencia: 1,864.27000000
+Resistencia de referencia: 1,841.74000000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [SOL/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 71.94000000
+Último cierre de vela cerrada: 72.45000000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 70.65657773 | EMA50: 72.73999665 | EMA200: 86.42504325
-RSI(14): 63.74 | ATR(14): 1.72071429
-Volumen relativo: 0.52x
+EMA20: 70.82737986 | EMA50: 72.72861785 | EMA200: 86.30424537
+RSI(14): 82.18 | ATR(14): 1.54214286
+Volumen relativo: 0.39x
 Soporte de referencia: 64.79000000
 Resistencia de referencia: 75.69000000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [XRP/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 0.93623000
+Último cierre de vela cerrada: 0.94073000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 0.93042782 | EMA50: 0.95730400 | EMA200: 1.12250311
-RSI(14): 60.16 | ATR(14): 0.02247857
-Volumen relativo: 0.71x
+EMA20: 0.93140898 | EMA50: 0.95665398 | EMA200: 1.12098887
+RSI(14): 77.16 | ATR(14): 0.01979000
+Volumen relativo: 0.21x
 Soporte de referencia: 0.85918000
 Resistencia de referencia: 1.00677000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [ADA/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 0.14602000
+Último cierre de vela cerrada: 0.14585500
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 0.14503773 | EMA50: 0.15053489 | EMA200: 0.18018876
-RSI(14): 55.87 | ATR(14): 0.00383879
-Volumen relativo: 0.72x
+EMA20: 0.14511557 | EMA50: 0.15035135 | EMA200: 0.17981705
+RSI(14): 74.11 | ATR(14): 0.00331029
+Volumen relativo: 0.79x
 Soporte de referencia: 0.13314900
 Resistencia de referencia: 0.15635000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [DOGE/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 0.05551290
+Último cierre de vela cerrada: 0.05568640
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 0.05548114 | EMA50: 0.05781694 | EMA200: 0.06826660
-RSI(14): 57.60 | ATR(14): 0.00133582
-Volumen relativo: 0.23x
+EMA20: 0.05550069 | EMA50: 0.05773339 | EMA200: 0.06815008
+RSI(14): 79.34 | ATR(14): 0.00115836
+Volumen relativo: 0.96x
 Soporte de referencia: 0.05074770
 Resistencia de referencia: 0.06037830
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [LTC/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 40.53000000
+Último cierre de vela cerrada: 40.89000000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 40.52300014 | EMA50: 42.71476505 | EMA200: 50.52818279
-RSI(14): 49.66 | ATR(14): 0.94142857
-Volumen relativo: 0.46x
+EMA20: 40.55795250 | EMA50: 42.64319685 | EMA200: 50.43256246
+RSI(14): 74.94 | ATR(14): 0.80928571
+Volumen relativo: 0.55x
 Soporte de referencia: 37.40000000
 Resistencia de referencia: 45.40000000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [LINK/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 8.91732000
+Último cierre de vela cerrada: 8.95213000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 8.74979347 | EMA50: 9.01108996 | EMA200: 10.41703389
-RSI(14): 64.31 | ATR(14): 0.20440643
-Volumen relativo: 0.55x
+EMA20: 8.76906362 | EMA50: 9.00877901 | EMA200: 10.40342817
+RSI(14): 87.65 | ATR(14): 0.17700214
+Volumen relativo: 0.24x
 Soporte de referencia: 7.96003000
 Resistencia de referencia: 9.39932000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [AVAX/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 6.71200000
+Último cierre de vela cerrada: 6.74400000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 6.68075314 | EMA50: 6.98219786 | EMA200: 8.14805385
-RSI(14): 58.89 | ATR(14): 0.16821429
-Volumen relativo: 0.24x
+EMA20: 6.68677665 | EMA50: 6.97285843 | EMA200: 8.13266430
+RSI(14): 82.33 | ATR(14): 0.14500000
+Volumen relativo: 0.34x
 Soporte de referencia: 6.01000000
 Resistencia de referencia: 7.30600000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
 
 [DOT/USD]  OBSERVACIÓN
-Último cierre de vela cerrada: 0.67150000
+Último cierre de vela cerrada: 0.67670000
 Tendencia EMA20/50/200: BAJISTA
-EMA20: 0.66737880 | EMA50: 0.70462793 | EMA200: 0.88029055
-RSI(14): 55.18 | ATR(14): 0.01737857
-Volumen relativo: 1.02x
+EMA20: 0.66826653 | EMA50: 0.70353241 | EMA200: 0.87819144
+RSI(14): 77.93 | ATR(14): 0.01503571
+Volumen relativo: 1.69x
 Soporte de referencia: 0.61770000
 Resistencia de referencia: 0.74680000
 Lectura: No se confirma un cierre por encima del máximo del periodo observado.
